@@ -1,0 +1,11 @@
+---
+
+## 4️⃣ EMULATOR_CATALOG.md
+
+At the top, add this note:
+
+```markdown
+# Open Source Emulator Catalog
+
+This document is a curated list of **legal open-source emulators** for reference only.  
+All linked projects retain their original licenses. Please check each project's license for usage details.
