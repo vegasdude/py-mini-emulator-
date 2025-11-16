@@ -1,0 +1,20 @@
+py-mini-emulator/
+│
+├── src/                   # Your starter emulator code
+│   ├── cpu.py
+│   ├── memory.py
+│   ├── display.py
+│   └── main.py
+│
+├── tests/                 # Example unit tests
+│   └── test_cpu.py
+│
+├── examples/              # Demo binaries
+│   └── demo.bin
+│
+├── docs/                  # Optional folder for reference docs
+│   └── EMULATOR_CATALOG.md   # The 20+ emulator catalog
+│
+├── .gitignore
+├── LICENSE
+└── README.md
