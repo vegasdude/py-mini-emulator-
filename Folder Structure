@@ -1,0 +1,17 @@
+py-mini-emulator/
+│
+├── src/
+│   ├── cpu.py          # CPU emulator logic
+│   ├── memory.py       # Memory management
+│   ├── display.py      # Display/graphics handler
+│   └── main.py         # Entry point
+│
+├── tests/
+│   └── test_cpu.py     # Example unit tests
+│
+├── examples/
+│   └── demo.bin        # Example binary (fully legal, e.g., test pattern)
+│
+├── .gitignore
+├── LICENSE             # MIT License recommended
+└── README.md
