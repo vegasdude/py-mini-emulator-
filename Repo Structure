@@ -1,0 +1,14 @@
+py-mini-emulator/
+├── LICENSE                 <-- MIT License for your code & markdown
+├── README.md               <-- Main repo overview
+├── src/                    <-- Starter Python emulator
+│   ├── cpu.py
+│   ├── memory.py
+│   ├── display.py
+│   └── main.py
+├── tests/                  <-- Unit tests
+│   └── test_cpu.py
+├── examples/               <-- Demo binaries
+│   └── demo.bin
+└── docs/
+    └── EMULATOR_CATALOG.md <-- Reference list of legal open-source emulators
